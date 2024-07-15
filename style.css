@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    user-select: none;
+}
+
+button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #050af9;
+    color: antiquewhite;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+button:hover {
+    background-color: #5053f4;
+}
+button:active {
+    background-color: #c2c3fc;
+}
